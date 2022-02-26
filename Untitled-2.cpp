@@ -21,7 +21,6 @@ int main()
             cout << "SECOND ";
             cin >> b;
             if (d == '+')
-                c = a + b;
             if (d == '-')
                 c = a - b;
             if (d == '*')
